@@ -13,7 +13,7 @@ subtitle: Testing Full-Cycle - Web, Móvil y API
 **Proyecto:** Proyecto Final Integral - Urban Scooter  
 **Periodo:** Noviembre 2025 - Diciembre 2025  
 **Programa:** TripleTen Bootcamp - QA Engineer  
-**Documentación:** [Ver en Google Docs](https://docs.google.com/document/d/1lnPj-oKeF1fiQpKZ0rttDw1jGCRSCKNm/edit?usp=sharing)
+**Documentación:** [Ver en Google Docs]([https://docs.google.com/document/d/1lnPj-oKeF1fiQpKZ0rttDw1jGCRSCKNm/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hcPTj0ihEfBKw27yNTDFU5dLAAQKUniR/edit?usp=drive_link&ouid=114728704284228093213&rtpof=true&sd=true))
 
 ---
 
