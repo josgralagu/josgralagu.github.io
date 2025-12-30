@@ -133,12 +133,12 @@ Automatización de pruebas de API REST para validación de creación de kits de 
 
 ---
 
-## 🎯 Próximos Proyectos
+**🟢 En Progreso Activo:**
+- **📘 TypeScript para Automatización Robust:** Actualmente enfocado en dominar **TypeScript** para desarrollar scripts de automatización más seguros, mantenibles y escalables, aprovechando su sistema de tipos estático.
 
-Actualmente trabajando en:
-- 🔄 **Integración CI/CD** con GitHub Actions para framework de Toolshop
-- 📱 **Testing de apps móviles nativas** con Appium
-- 🤖 **Testing de performance** con JMeter/K6
+**🔵 Próximo Enfoque (Ruta Planificada):**
+- **🥒 BDD con Cucumber:** El siguiente paso será profundizar en la metodología **BDD (Behavior-Driven Development)** utilizando **Cucumber**, con el objetivo de escribir casos de prueba que mejoren la colaboración entre equipos técnicos y de negocio.
+- **🔄 CI/CD con Jenkins:** Posteriormente, planeo explorar la **integración y entrega continua (CI/CD)**, específicamente la creación de **pipelines de construcción con pruebas** utilizando **Jenkins**, para automatizar y optimizar los flujos de trabajo de calidad.
 
 ---
 
