@@ -63,6 +63,8 @@ Proyecto full-cycle que integra testing web, móvil y API para aplicación de al
 
 ### 3. Automatización Web - SauceDemo
 
+![Sauce Demo](/assets/img/sauce demo/sauce demo 2.png)
+
 **EPAM Fundamentals | Abr 2025 - Jul 2025**
 
 Suite de automatización para testing de flujos de login utilizando WebDriverIO v9 y el patrón Page Object Model.
