@@ -13,7 +13,7 @@ subtitle: Testing Full-Cycle - Web, Móvil y API
 **Proyecto:** Proyecto Final Integral - Urban Scooter  
 **Periodo:** Noviembre 2025 - Diciembre 2025  
 **Programa:** TripleTen Bootcamp - QA Engineer  
-**Documentación:** [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1hcPTj0ihEfBKw27yNTDFU5dLAAQKUniR/edit?usp=sharing&ouid=114728704284228093213&rtpof=true&sd=true)
+<!-- **Documentación:** [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1hcPTj0ihEfBKw27yNTDFU5dLAAQKUniR/edit?usp=sharing&ouid=114728704284228093213&rtpof=true&sd=true) -->
 
 ---
 
@@ -301,9 +301,9 @@ E/AndroidRuntime: FATAL EXCEPTION: main
 
 ## 🔗 Enlaces y Recursos
 
-- **📄 Documentación Completa:** [Ver en Google Docs](https://docs.google.com/document/d/1lnPj-oKeF1fiQpKZ0rttDw1jGCRSCKNm/edit?usp=sharing)
-- **🐛 Reporte de Bugs en JIRA:** *(Requiere acceso al proyecto)*
-- **📊 Test Cases y Checklists:** [Ver en Google Sheets](https://docs.google.com/document/d/1lnPj-oKeF1fiQpKZ0rttDw1jGCRSCKNm/edit?usp=sharing)
+<!-- - **📄 Documentación Completa:** [Ver en Google Docs](https://docs.google.com/document/d/1lnPj-oKeF1fiQpKZ0rttDw1jGCRSCKNm/edit?usp=sharing) -->
+<!-- - **🐛 Reporte de Bugs en JIRA:** *(Requiere acceso al proyecto)* -->
+- **📊 Test Cases y Checklists:** [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1hcPTj0ihEfBKw27yNTDFU5dLAAQKUniR/edit?usp=sharing&ouid=114728704284228093213&rtpof=true&sd=true)
 
 ---
 
