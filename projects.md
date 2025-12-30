@@ -151,4 +151,4 @@ Si te interesa conocer los detalles de implementación de algún proyecto o disc
 
 ---
 
-[⬅️ Volver al Inicio](/) | [📄 Ver mi CV Completo](/cv)
+[⬅️ Volver al Inicio](/) | [📄 Ver mi CV Completo](/assets/cv/CV_Jose_Grajales.pdf)
