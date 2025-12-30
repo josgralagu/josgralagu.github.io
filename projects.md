@@ -85,6 +85,9 @@ Suite de automatización para testing de flujos de login utilizando WebDriverIO 
 
 ### 4. Automatización Web con Selenium - Urban Routes
 
+![Urban Routes 1](/assets/img/urban routes/Urban Routes 1.png)
+![Urban Routes 2](/assets/img/urban routes/Urban Routes 2.png)
+
 **TripleTen Bootcamp | Nov 2025**
 
 Automatización del flujo completo de pedido de taxi utilizando Selenium WebDriver y Python.
