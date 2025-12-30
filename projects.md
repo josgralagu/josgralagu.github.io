@@ -51,7 +51,7 @@ Proyecto full-cycle que integra testing web, móvil y API para aplicación de al
 `Chrome` `Firefox` `Figma` `Android Studio` `Postman` `JIRA` `SQL` `Apidoc` `DevTools`
 
 **🔗 Enlaces:**
-- [📁 Ver Documentación del Proyecto](https://docs.google.com/document/d/1lnPj-oKeF1fiQpKZ0rttDw1jGCRSCKNm/edit?usp=sharing)
+- [📁 Ver Documentación del Proyecto](https://docs.google.com/spreadsheets/d/1hcPTj0ihEfBKw27yNTDFU5dLAAQKUniR/edit?usp=drive_link&ouid=114728704284228093213&rtpof=true&sd=true)
 
 [🔍 Ver Detalles del Proyecto →](/projects/urban-scooter)
 
