@@ -12,7 +12,7 @@ En esta sección encontrarás mis proyectos más destacados en **QA Manual** y *
 
 ### 1. Framework de Automatización E2E/UI/API - Toolshop
 
-![Toolshop Framework](/assets/images/toolshop/Toolshop site.png)
+![Toolshop Framework](/assets/img/toolshop/Toolshop site.png)
 
 **EPAM Specialization | Sep 2025 - Feb 2026 (En curso - 71% completado)**
 
