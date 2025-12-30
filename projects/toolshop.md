@@ -10,6 +10,10 @@ subtitle: E2E, UI & API Testing con Playwright y JavaScript
 
 ## 📋 Información General
 
+![Captura 1](/assets/img/toolshop/Toolshop site.png)
+![Captura 2](/assets/img/toolshop/Toolshop site 2.png)
+![Captura 3](/assets/img/toolshop/Toolshop site 3.png)
+
 **Proyecto:** Framework de Automatización E2E/UI/API - Toolshop  
 **Periodo:** Septiembre 2025 - Febrero 2026 (En curso - 71% completado)  
 **Programa:** EPAM UpSkill - Specialization in Automated Testing with JavaScript  
