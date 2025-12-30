@@ -38,7 +38,7 @@ Framework integral de automatización desarrollado con JavaScript moderno, cubri
 
 ### 2. Proyecto Final Integral - Urban Scooter
 
-![Urban Scooter](/assets/img/Urban Scooter/urban scooter 1.png)
+![Urban Scooter](/assets/img/urban scooter/urban scooter 1.png)
 
 **TripleTen Bootcamp | Nov 2025 - Dic 2025**
 
