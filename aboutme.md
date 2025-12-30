@@ -108,9 +108,7 @@ Busco un rol como **QA Automation Engineer Jr.** o **QA Manual** en un equipo á
 ### 💡 Fun Facts
 
 - 🎯 Mi transición a QA fue inspirada por mi pasión por mejorar procesos
-- 🧩 Me encanta resolver puzzles complejos (bugs = puzzles profesionales)
 - 📚 Aprendizaje continuo: actualmente profundizando en CI/CD con GitHub Actions
-- ☕ Método de debug favorito: Rubber duck debugging (sí, funciona)
 
 ---
 
