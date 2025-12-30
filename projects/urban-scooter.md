@@ -10,6 +10,10 @@ subtitle: Testing Full-Cycle - Web, Móvil y API
 
 ## 📋 Información General
 
+![Captura 1](/assets/img/urban scooter/urban scooter 1.png)
+![Captura 2](/assets/img/urban scooter/urban scooter 2.png)
+![Captura 3](/assets/img/urban scooter/urban scooter 3.png)
+
 **Proyecto:** Proyecto Final Integral - Urban Scooter  
 **Periodo:** Noviembre 2025 - Diciembre 2025  
 **Programa:** TripleTen Bootcamp - QA Engineer  
