@@ -108,6 +108,8 @@ Automatización del flujo completo de pedido de taxi utilizando Selenium WebDriv
 
 ### 5. Automatización de API - Urban Grocers
 
+![Urban Grocers](assets/img/urban grocers/urban grocers tests.png)
+
 **TripleTen Bootcamp | Oct 2025**
 
 Automatización de pruebas de API REST para validación de creación de kits de productos.
