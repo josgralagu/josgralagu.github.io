@@ -29,13 +29,14 @@ Combino **visión de negocio** con **habilidades técnicas** para entregar softw
 - ⚙️ Automatización web con **Selenium WebDriver** y **Python**
 - ⚙️ Testing de API REST con validación de esquemas usando **Joi**
 - ⚙️ Configuración de ejecución multi-navegador paralela
-
+- ⚙️ Implementación de **BDD** con **Cucumber**
+- ⚙️ Aplicación de Integración Continua (CI/CD) con **Jenkins**.
 ---
 
 ## 🛠️ Stack Técnico
 
 ### Automatización
-**Playwright** • **WebDriverIO** • **Selenium** • **Mocha** • **Pytest** • **Cypress** (básico)
+**Playwright** • **WebDriverIO** • **Selenium** • **Mocha** • **Pytest** • **Cypress** (básico) • **Cucumber** • **Jenkins**
 
 ### Testing de API
 **Postman** • **Supertest** • **REST API** • **Joi** • **Swagger** • **Apidoc**
@@ -44,7 +45,7 @@ Combino **visión de negocio** con **habilidades técnicas** para entregar softw
 **JavaScript (ES6+)** • **Python**
 
 ### Herramientas de Testing
-**JIRA** • **Zoho** • **TestRail** • **Git/GitHub** • **DevTools** • **Charles Proxy**
+**JIRA** • **Zoho** • **TestRail** • **Git/GitHub** • **DevTools**
 
 ### Bases de Datos
 **SQL Server** • **PostgreSQL** (JOINs, subconsultas, validación de datos)
@@ -59,7 +60,7 @@ Combino **visión de negocio** con **habilidades técnicas** para entregar softw
 
 ## 🎓 Formación
 
-**Especialización en Automated Testing con JavaScript** *(En progreso - 71%)*  
+**Especialización en Automated Testing con JavaScript** *(En progreso - 90%)*  
 EPAM Systems | Sep 2025 - Feb 2026
 
 **Bootcamp: QA Engineer**  
@@ -88,8 +89,8 @@ Busco un rol como **QA Automation Engineer Jr.** o **QA Manual** en un equipo á
 ## 🌍 Idiomas
 
 - 🇪🇸 **Español:** Nativo
-- 🇺🇸 **Inglés:** Profesional completo (B2)
-- 🇫🇷 **Francés:** Básico (A1)
+- 🇺🇸 **Inglés:** Profesional completo (C1)
+<!-- - 🇫🇷 **Francés:** Básico (A1) -->
 
 ---
 
