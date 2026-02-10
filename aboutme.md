@@ -30,7 +30,7 @@ Combino **visión de negocio** con **habilidades técnicas** para entregar softw
 - ⚙️ Testing de API REST con validación de esquemas usando **Joi**
 - ⚙️ Configuración de ejecución multi-navegador paralela
 - ⚙️ Implementación de **BDD** con **Cucumber**
-- ⚙️ Aplicación de Integración Continua (CI/CD) con **Jenkins**.
+- ⚙️ Aplicación de Integración Continua (CI/CD) con **Jenkins**
 ---
 
 ## 🛠️ Stack Técnico
