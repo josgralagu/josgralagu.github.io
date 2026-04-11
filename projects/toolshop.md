@@ -15,7 +15,7 @@ subtitle: E2E, UI & API Testing con Playwright y JavaScript
 ![Captura 3](/assets/img/toolshop/Toolshop site 3.png)
 
 **Proyecto:** Framework de Automatización E2E/UI/API - Toolshop  
-**Periodo:** Septiembre 2025 - Febrero 2026 (En curso - 71% completado)  
+**Periodo:** Septiembre 2025 - Marzo 2026 (Completado - 100%)  
 **Programa:** EPAM UpSkill - Specialization in Automated Testing with JavaScript  
 **Repositorio:** [github.com/josgralagu/toolshop-automation-playwright](https://github.com/josgralagu/toolshop-automation-playwright)
 
@@ -50,9 +50,11 @@ Crear un **framework integral y production-ready** que demuestre:
 - **Chai** - Biblioteca de assertions
 - **Supertest** - Testing de API HTTP
 - **Joi** - Validación de esquemas de API
+- **Cucumber (BDD)** - Pruebas basadas en escenarios Gherkin
 
 ### Lenguaje y Patrones
 - **JavaScript (ES Modules)** - Sintaxis moderna ES6+
+- **TypeScript** - Tipado estático y mejor mantenibilidad
 - **Page Object Model (POM)** - Patrón de diseño principal
 - **Factory Pattern** - Para instanciación dinámica de page objects
 - **Async/Await** - Manejo de promesas
@@ -61,6 +63,9 @@ Crear un **framework integral y production-ready** que demuestre:
 - **ESLint** - Linter para mantener código consistente
 - **Prettier** - Formateador automático de código
 - **npm scripts** - 9 scripts personalizados para diferentes flujos
+
+### CI/CD
+- **Jenkins** - Pipeline de integración continua (implementado)
 
 ### Reporting
 - **Mochawesome** - Reportes HTML interactivos
@@ -303,6 +308,7 @@ Reportes HTML interactivos con:
 
 Este framework está en constante evolución. Próximas mejoras planeadas:
 
+- [x] **CI/CD con Jenkins (entorno local)** - Pipeline implementado y funcional
 - [ ] **CI/CD con GitHub Actions** - Ejecución automática en cada push
 - [ ] **Docker containerization** - Ambiente consistente para todos los desarrolladores
 - [ ] **Visual regression testing** - Detección de cambios visuales con Playwright
